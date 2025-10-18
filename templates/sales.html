@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}Sales History{% endblock %}
+{% block content %}
+<table class="table table-dark table-striped">
+  <thead><tr><th>Date</th><th>Invoice</th><th>Total</th><th>Mode</th><th>Drive</th><th>PDF</th></tr></thead>
+  <tbody id="rows"></tbody>
+</table>
+<script>
+(async () => {
+  const r = await fetch("/api/sales"); const data = await r.json();
+  const rows = document.getElementById("rows");
+  rows.innerHTML = data.map(s => `
+    <tr>
+      <td>${new Date(s.date.$date || s.date).toLocaleString()}</td>
+      <td>${s.invoice_code || ("INV-2025-" + String(s.invoice_no).padStart(3,"0"))}</td>
+      <td>₹${Number(s.total).toFixed(2)}</td>
+      <td>${s.payment_mode}</td>
+      <td>${s.drive_link ? `<a target="_blank" href="${s.drive_link}">Open</a>`:"-"}</td>
+      <td>${s.pdf_file ? `<a target="_blank" href="/invoices/${s.pdf_file}">PDF</a>`:"-"}</td>
+    </tr>`).join("");
+})();
+</script>
+{% endblock %}

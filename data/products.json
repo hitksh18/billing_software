@@ -1,0 +1,161 @@
+{
+  "SPARKLERS": [
+    { "Product No": "001", "Product Name": "STANDARD GOLD SPARKLERS 7CM 1 Box", "Price": "Rs.25.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "002", "Product Name": "STANDARD GOLD SPARKLERS 12CM 1BOX", "Price": "Rs.90.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "003", "Product Name": "STANDARD CRACKLING SPARKLERS 12CM 1BOX", "Price": "Rs.95.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "004", "Product Name": "4 COLOR SPARKLERS 1 BOX", "Price": "Rs.110.00", "Description": "4 COLOR SPARKLERS 1 Box – 10pcs" },
+    { "Product No": "005", "Product Name": "Standard 15 CM Lemon Tree – 10 Pcs", "Price": "Rs.130.00", "Description": "Standard 15 CM Lemon Tree – 10 Pcs in 1 Box" },
+    { "Product No": "006", "Product Name": "STANDARD RED COLOR SPARKLERS 15CM 1BOX", "Price": "Rs.130.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "007", "Product Name": "STANDARD GREEN COLOR SPARKLERS 15CM 1BOX", "Price": "Rs.130.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "008", "Product Name": "STANDARD GOLD SPARKLERS 15CM 1BOX", "Price": "Rs.130.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "009", "Product Name": "STANDARD GOLD SPARKLERS 30CM 1BOX", "Price": "Rs.135.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "010", "Product Name": "STANDARD CRACKLING SPARKLERS 15CM 1BOX", "Price": "Rs.135.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "011", "Product Name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX", "Price": "Rs.140.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "012", "Product Name": "STD TRI COLOR (3 IN 1) 15CM 1BOX", "Price": "Rs.330.00", "Description": "1 box only contains 10pcs" }
+  ],
+
+  "FLOWER POTS": [
+    { "Product No": "013", "Product Name": "MINI FOUNTAIN", "Price": "Rs.160.00", "Description": "1 box only contains 6pcs" },
+    { "Product No": "014", "Product Name": "JET FOUNTAIN", "Price": "Rs.160.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "015", "Product Name": "FLOWER POTS BIG 1 BOX  Each Box – 10 Pieces", "Price": "Rs.245.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "016", "Product Name": "FLOWER POTS SPECIAL 1 BOX", "Price": "Rs.340.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "017", "Product Name": "COLOR FOUNTAIN", "Price": "Rs.450.00", "Description": "1 box only contains 4pcs" },
+    { "Product No": "018", "Product Name": "FLOWER POTS DELUXE 1 BOX", "Price": "Rs.450.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "019", "Product Name": "FLOWER POTS GIANT 1 BOX", "Price": "Rs.650.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "020", "Product Name": "Lavender Fountain – 3 Pcs", "Price": "Rs.700.00", "Description": "Lavender Fountain – 3 Pcs in 1 Box" },
+    { "Product No": "021", "Product Name": "Colour World 1 Box", "Price": "Rs.700.00", "Description": "Colour World 1 Box – 10pcs" },
+    { "Product No": "022", "Product Name": "TRI COLOR FOUNTAIN 1 BOX", "Price": "Rs.700.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "023", "Product Name": "RED CINDERELLA (1 Box)", "Price": "Rs.725.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "024", "Product Name": "TRI COLOR FOUNTAIN (MILLENNIUM) 1 BOX", "Price": "Rs.750.00", "Description": "1 box only contains 5pcs" }
+  ],
+
+  "CHAKKARS": [
+    { "Product No": "025", "Product Name": "ZAMIN CHAKKAR BIG 1 BOX – 10 Pcs ", "Price": "Rs.120.00", "Description": "1 box only contains 10pcs (smaller size variant)" },
+    { "Product No": "026", "Product Name": "ZAMIN CHAKKAR ASHOKA 1 BOX – 10 Pcs", "Price": "Rs.180.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "027", "Product Name": "TWIN SPIN 1 BOX – 5 Pcs", "Price": "Rs.220.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "028", "Product Name": "Whizz Wheels 1 BOX – 5 Pcs", "Price": "Rs.225.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "029", "Product Name": "MEGA TWISTER 1 BOX – 5 Pcs", "Price": "Rs.250.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "030", "Product Name": "ZAMIN CHAKKAR DELUXE 1 BOX – 10 Pcs", "Price": "Rs.375.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "031", "Product Name": "WIRE CHAKKAR DELUXE 1 BOX – 10 Pcs", "Price": "Rs.390.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "032", "Product Name": "SWASTHIK WHEELS 1 BOX – 5 Pcs", "Price": "Rs.440.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "123", "Product Name": "Scarlet Saucer – 5 Pcs", "Price": "Rs.375.00", "Description": "1 box only contains 5pcs" }
+  ],
+
+  "ROCKETS - NOVEL CRACKERS": [
+    { "Product No": "124", "Product Name": "TWINKLING STAR 45CM 1 BOX", "Price": "Rs.135.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "033", "Product Name": "TWINKLING STAR 60CM 1 BOX", "Price": "Rs.160.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "034", "Product Name": "FIRE PENCIL 1 BOX", "Price": "Rs.150.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "035", "Product Name": "MULTI COLOR CANDLE 1 BOX", "Price": "Rs.190.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "036", "Product Name": "TWINKLING STAR DELUXE 120CM 1 BOX", "Price": "Rs.225.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "037", "Product Name": "RAINBOW ROCKET 1 BOX", "Price": "Rs.240.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "038", "Product Name": "BOMB ROCKET 1 BOX", "Price": "Rs.250.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "039", "Product Name": "4 COLOR TORCHES 1 BOX", "Price": "Rs.350.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "040", "Product Name": "SILVER JET ROCKET", "Price": "Rs.400.00", "Description": "SILVER JET ROCKET 1 Box – 10pcs" },
+    { "Product No": "041", "Product Name": "ROHINI ROCKET 1 BOX", "Price": "Rs.400.00", "Description": "1 box only contains 10pcs" }
+  ],
+
+  "ATOM BOMB": [
+    { "Product No": "042", "Product Name": "9 CM LAXMI", "Price": "Rs.70.00", "Description": "1 pkt only contains 5pcs" },
+    { "Product No": "043", "Product Name": "TWO SOUND CRACKERS", "Price": "Rs.80.00", "Description": "1 pkt only contains 5pcs" },
+    { "Product No": "044", "Product Name": "10 CM LAXMI / KRISHNA", "Price": "Rs.80.00", "Description": "1 pkt only contains 5pcs" },
+    { "Product No": "045", "Product Name": "10 CM HERCULES DELUXE", "Price": "Rs.90.00", "Description": "1 pkt only contains 5pcs" },
+    { "Product No": "046", "Product Name": "RED BIJILI 1 BAG", "Price": "Rs.100.00", "Description": "1 bag contains 100pcs" },
+    { "Product No": "047", "Product Name": "RED BIJILI 1 BAG (Other)", "Price": "Rs.50.00", "Description": "1 bag contains 100pcs (other brand)" },
+    { "Product No": "048", "Product Name": "HYDROGEN BOMB GREEN 1 BOX", "Price": "Rs.175.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "049", "Product Name": "STANDARD ATOM BOMB 1 BOX", "Price": "Rs.175.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "050", "Product Name": "BULLET BOMB 1 BOX", "Price": "Rs.180.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "051", "Product Name": "THUNDER BOMB GREEN 1 BOX", "Price": "Rs.250.00", "Description": "1 box only contains 10pcs" }
+  ],
+
+  "GARLANDS": [
+    { "Product No": "126", "Product Name": "Taj Giant – 1 PKT", "Price": "Rs.80.00", "Description": "1 pkt" },
+    { "Product No": "127", "Product Name": "Standard-28mm", "Price": "Rs.60.00", "Description": "1 pkt" },
+    { "Product No": "052", "Product Name": "STANDARD '28' MAGIC CRACKERS – 1 PKT", "Price": "Rs.55.00", "Description": "1 pkt" },
+    { "Product No": "053", "Product Name": "28 Chorsa Gaint Crackers (Other Brand)", "Price": "Rs.60.00", "Description": "Standard 28 Chorsa Gaint Magic Crackers" },
+    { "Product No": "054", "Product Name": "100 Wala (Other Brand)", "Price": "Rs.130.00", "Description": "100 Wala (Other Brand)" },
+    { "Product No": "055", "Product Name": "STANDARD '100' WALA MAGIC CRACKERS 1 STRING", "Price": "Rs.150.00", "Description": "1 string" },
+    { "Product No": "056", "Product Name": "200 Wala (Other Brand)", "Price": "Rs.200.00", "Description": "200 Wala (Other Brand)" },
+    { "Product No": "057", "Product Name": "'1000' WALA 1 STRING (Other Brand)", "Price": "Rs.600.00", "Description": "1 string" },
+    { "Product No": "058", "Product Name": "STANDARD '1000' WALA MAGIC CRACKERS 1 STRING", "Price": "Rs.800.00", "Description": "1 string" },
+    { "Product No": "059", "Product Name": "2000 Magic Crackers", "Price": "Rs.1,700.00", "Description": "1 string" },
+    { "Product No": "060", "Product Name": "'2000' WALA 1 STRING (Other Brand)", "Price": "Rs.1,200.00", "Description": "1 string" },
+    { "Product No": "060", "Product Name": "'5000' WALA 1 STRING (Other Brand)", "Price": "Rs.3,600.00", "Description": "1 string" },
+    { "Product No": "061", "Product Name": "STANDARD '5000' WALA MAGIC CRACKERS 1 STRING", "Price": "Rs.4,200.00", "Description": "1 string" },
+    { "Product No": "062", "Product Name": "STANDARD '10000' WALA MAGIC CRACKERS 1 STRING", "Price": "Rs.6,800.00", "Description": "1 string" }
+  ],
+
+  "GUNS - ROLLS - POP POP - SNAKES - Match Box": [
+    { "Product No": "063", "Product Name": "POP POP 1 BOX", "Price": "Rs.10.00", "Description": "POP POP 1 BOX – 50pcs" },
+    { "Product No": "064", "Product Name": "CENJO GUN", "Price": "Rs.70.00", "Description": "CENJO GUN" },
+    { "Product No": "065", "Product Name": "JACK GUN", "Price": "Rs.70.00", "Description": "JACK GUN" },
+    { "Product No": "066", "Product Name": "BULLET GUN", "Price": "Rs.90.00", "Description": "BULLET GUN" },
+    { "Product No": "067", "Product Name": "ZEEBRA GUN", "Price": "Rs.130.00", "Description": "ZEEBRA GUN" },
+    { "Product No": "068", "Product Name": "FUNTO GUN", "Price": "Rs.130.00", "Description": "FUNTO GUN" },
+    { "Product No": "069", "Product Name": "LONG BOY GUN", "Price": "Rs.150.00", "Description": "LONG BOY GUN" },
+    { "Product No": "070", "Product Name": "ROLL AYYAN / STANDARD", "Price": "Rs.150.00", "Description": "ROLL AYYAN / STANDARD" },
+    { "Product No": "071", "Product Name": "POP POP 1 BUNDLE (50 BOXES)", "Price": "Rs.500.00", "Description": "POP POP 1 BUNDLE (50 BOXES)" },
+    { "Product No": "072", "Product Name": "Disco Jumbo Mini", "Price": "Rs.85.00", "Description": "10 in One Colour Matches" },
+    { "Product No": "073", "Product Name": "Samrath Jumbo Deluxe", "Price": "Rs.200.00", "Description": "10 in One Colour Matches" },
+    { "Product No": "122", "Product Name": "Pandian-Snakes", "Price": "Rs.80.00", "Description": "10 boxes in one pack" },
+    { "Product No": "124", "Product Name": "POP POP 50 BOX", "Price": "Rs.500.00", "Description": "POP POP 1 BOX – 50pcs" },
+    { "Product No": "125", "Product Name": "Ayyan Ring Caps", "Price": "Rs.10.00", "Description": "Ring Caps for Guns" }
+  ],
+
+  "FANCY FIREWORKS": [
+    { "Product No": "074", "Product Name": "ELECTRIC STONE 1 BOX", "Price": "Rs.100.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "075", "Product Name": "Magic Whip", "Price": "Rs.150.00", "Description": "Magic Whip – 1 Pc" },
+    { "Product No": "076", "Product Name": "DISCO FLASH 1 BOX", "Price": "Rs.150.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "077", "Product Name": "COLOR SMOKE FOUNTAIN 1 BOX", "Price": "Rs.175.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "078", "Product Name": "JUMPING FROG 1 BOX", "Price": "Rs.175.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "079", "Product Name": "COLOR CHANGING BUTTERFLY 1 BOX", "Price": "Rs.225.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "080", "Product Name": "Pandav", "Price": "Rs.275.00", "Description": "Pandav – 1 Pc" },
+    { "Product No": "081", "Product Name": "RAINBOW FOG 1 BOX", "Price": "Rs.275.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "082", "Product Name": "Golden Whistle – 5 Pcs", "Price": "Rs.300.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "083", "Product Name": "T.V.TOWER", "Price": "Rs.350.00", "Description": "T.V.TOWER" },
+    { "Product No": "084", "Product Name": "Roman Candles (6 Balls)", "Price": "Rs.375.00", "Description": "Roman Candles (6 Balls)" },
+    { "Product No": "085", "Product Name": "MINE OF SHOTS 1 BOX – 5 Pcs", "Price": "Rs.375.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "086", "Product Name": "ARIAL OUT 1 BOX", "Price": "Rs.425.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "087", "Product Name": "METEOR 1 BOX", "Price": "Rs.425.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "088", "Product Name": "CHEERS", "Price": "Rs.450.00", "Description": "1 box only contains 3pcs" },
+    { "Product No": "089", "Product Name": "Jewel Pots – 5 Pcs in 1 Box", "Price": "Rs.475.00", "Description": "Jewel Pots – 5 Pcs in 1 Box" },
+    { "Product No": "090", "Product Name": "GOLDEN DROPS 1 BOX", "Price": "Rs.475.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "091", "Product Name": "JADE FLOWERS", "Price": "Rs.495.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "092", "Product Name": "GOLD RUSH – 1 BOX", "Price": "Rs.500.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "093", "Product Name": "HAPPINESS", "Price": "Rs.500.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "094", "Product Name": "Magic Tree", "Price": "Rs.625.00", "Description": "Magic Tree – 1 Pc" },
+    { "Product No": "095", "Product Name": "CRACKLING KING", "Price": "Rs.625.00", "Description": "1 box only contains 5pcs" },
+    { "Product No": "096", "Product Name": "Tower Pot 1 Pc", "Price": "Rs.700.00", "Description": "Tower Pot 1 Pc" },
+    { "Product No": "097", "Product Name": "25 Shots – Standard", "Price": "Rs.1,200.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "098", "Product Name": "30 Shots – Standard", "Price": "Rs.1,500.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "099", "Product Name": "40 Shots – Standard", "Price": "Rs.1,800.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "100", "Product Name": "60 Shots – Standard", "Price": "Rs.2,800.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "101", "Product Name": "Speed 200 Shot", "Price": "Rs.6,000.00", "Description": "1 box only contains 1 pcs" }
+  ],
+
+  "MULTICOLOR NIGHT OUTS": [
+    { "Product No": "102", "Product Name": "7 SHOTS 1 BOX", "Price": "Rs.325.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "103", "Product Name": "12 SHOTS – ALL VARIETY 1 BOX", "Price": "Rs.375.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "104", "Product Name": "1\" COMETS – ALL VARIETY 1 BOX", "Price": "Rs.225.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "104", "Product Name": "2\" COMETS – ALL VARIETY 1 BOX", "Price": "Rs.475.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "105", "Product Name": "3\" COMETS – ALL VARIETY 1 BOX", "Price": "Rs.575.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "106", "Product Name": "30 SHOTS – ALL VARIETY 1 BOX (Other Brand)", "Price": "Rs.1,300.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "107", "Product Name": "60 SHOTS – ALL VARIETY 1 BOX (Other Brand)", "Price": "Rs.2,000.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "108", "Product Name": "60 SHOTS – SPECIAL 1 BOX", "Price": "Rs.2,500.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "109", "Product Name": "100 SHOTS – SPECIAL 1 BOX (Express 100 / Singing Bird 100)", "Price": "Rs.3,600.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "110", "Product Name": "100 SHOTS – ALL VARIETY 1 BOX (Sensation 100 / Sun Flower 100)", "Price": "Rs.3,600.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "111", "Product Name": "125 SHOTS – ALL VARIETY 1 BOX (Gold Bonanza / Red Roses / Green Park)", "Price": "Rs.4,500.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "112", "Product Name": "125 SHOTS – SPECIAL 1 BOX (Rain and Thunder / Gold Bonanza)", "Price": "Rs.4,800.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "113", "Product Name": "250 SHOTS – NEW PARADISE 1 BOX", "Price": "Rs.8,000.00", "Description": "1 box only contains 1 pcs with 250 shots" }
+  ],
+
+  "GIFT BOXES": [
+    { "Product No": "114", "Product Name": "Great Gift Box ", "Price": "Rs.1,650.00", "Description": "Super Gift Box" },
+    { "Product No": "115", "Product Name": "GIFT BOX – 'WONDERFUL' 1 BOX (31 Items)", "Price": "Rs.2,050.00", "Description": "1 box only contains 31 items" },
+    { "Product No": "116", "Product Name": "GIFT BOX – 'KUSHI' 1 BOX (36 Items)", "Price": "Rs.2,500.00", "Description": "1 box only contains 36 items" },
+    { "Product No": "117", "Product Name": "GIFT BOX – 'JUBILEE' 1 BOX (38 Items)", "Price": "Rs.2,550.00", "Description": "1 box only contains 38 items" },
+    { "Product No": "118", "Product Name": "GIFT BOX – 'DIAMOND' 1 BOX (43 Items)", "Price": "Rs.2,800.00", "Description": "1 box only contains 43 items" },
+    { "Product No": "119", "Product Name": "GIFT BOX – 'TITAN' 1 BOX (46 Items)", "Price": "Rs.3,450.00", "Description": "1 box only contains 46 items" },
+    { "Product No": "120", "Product Name": "Titan New Deluxe Gift Box (55 Items)", "Price": "Rs.4,200.00", "Description": "1 box only contains 55 items" },
+    { "Product No": "121", "Product Name": "GIFT BOX – 'NEW PARADISE' 1 BOX (50 Items)", "Price": "Rs.6,600.00", "Description": "1 box only contains 50 items" }
+  ]
+}

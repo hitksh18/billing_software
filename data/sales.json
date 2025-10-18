@@ -1,0 +1,2085 @@
+[
+  {
+    "sale_no": 1,
+    "invoice_no": 1,
+    "invoice_code": "INV-2025-001",
+    "date": "2025-10-18T00:59:20.733310",
+    "items": [
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 12CM 1BOX",
+        "price": 95.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 12CM 1BOX",
+        "price": 90.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      }
+    ],
+    "total": 515.0,
+    "discount": -718.0,
+    "final_cost": 1233.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_001_INV-2025-001.pdf"
+  },
+  {
+    "sale_no": 2,
+    "invoice_no": 2,
+    "invoice_code": "INV-2025-002",
+    "date": "2025-10-18T01:00:57.533766",
+    "items": [
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 12CM 1BOX",
+        "price": 90.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GREEN COLOR SPARKLERS 15CM 1BOX",
+        "price": 130.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RAINBOW ROCKET 1 BOX",
+        "price": 240.0,
+        "qty": 1
+      },
+      {
+        "product_name": "'1000' WALA 1 STRING (Other Brand)",
+        "price": 600.0,
+        "qty": 1
+      },
+      {
+        "product_name": "COLOR SMOKE FOUNTAIN 1 BOX",
+        "price": 175.0,
+        "qty": 3
+      },
+      {
+        "product_name": "TWIN SPIN 1 BOX \u2013 5 Pcs",
+        "price": 220.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG (Other)",
+        "price": 50.0,
+        "qty": 2
+      },
+      {
+        "product_name": "ZEEBRA GUN",
+        "price": 130.0,
+        "qty": 1
+      },
+      {
+        "product_name": "4 COLOR TORCHES 1 BOX",
+        "price": 350.0,
+        "qty": 1
+      },
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 1
+      },
+      {
+        "product_name": "10 CM HERCULES DELUXE",
+        "price": 90.0,
+        "qty": 1
+      },
+      {
+        "product_name": "TWINKLING STAR 60CM 1 BOX",
+        "price": 140.0,
+        "qty": 2
+      },
+      {
+        "product_name": "250 SHOTS \u2013 NEW PARADISE 1 BOX",
+        "price": 8000.0,
+        "qty": 4
+      }
+    ],
+    "total": 35165.0,
+    "discount": 165.0,
+    "final_cost": 35000.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_002_INV-2025-002.pdf"
+  },
+  {
+    "sale_no": 3,
+    "invoice_no": 3,
+    "invoice_code": "INV-2025-003",
+    "date": "2025-10-18T01:01:32.780968",
+    "items": [
+      {
+        "product_name": "250 SHOTS \u2013 NEW PARADISE 1 BOX",
+        "price": 8000.0,
+        "qty": 8
+      }
+    ],
+    "total": 64000.0,
+    "discount": 4000.0,
+    "final_cost": 60000.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_003_INV-2025-003.pdf"
+  },
+  {
+    "sale_no": 4,
+    "invoice_no": 4,
+    "invoice_code": "INV-2025-004",
+    "date": "2025-10-18T01:08:29.007740",
+    "items": [
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 12CM 1BOX",
+        "price": 90.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FIRE PENCIL 1 BOX",
+        "price": 150.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD '100' WALA MAGIC CRACKERS 1 STRING",
+        "price": 150.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Jewel Pots \u2013 5 Pcs in 1 Box",
+        "price": 475.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RAINBOW FOG 1 BOX",
+        "price": 275.0,
+        "qty": 2
+      },
+      {
+        "product_name": "COLOR SMOKE FOUNTAIN 1 BOX",
+        "price": 175.0,
+        "qty": 1
+      }
+    ],
+    "total": 1920.0,
+    "discount": 0.0,
+    "final_cost": 1920.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_004_INV-2025-004.pdf"
+  },
+  {
+    "sale_no": 5,
+    "invoice_no": 5,
+    "invoice_code": "INV-2025-005",
+    "date": "2025-10-18T01:14:33.652520",
+    "items": [
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      }
+    ],
+    "total": 330.0,
+    "discount": 0.0,
+    "final_cost": 330.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_005_INV-2025-005.pdf"
+  },
+  {
+    "sale_no": 6,
+    "invoice_no": 6,
+    "invoice_code": "INV-2025-006",
+    "date": "2025-10-18T01:15:50.919205",
+    "items": [
+      {
+        "product_name": "STANDARD RED COLOR SPARKLERS 15CM 1BOX",
+        "price": 130.0,
+        "qty": 1
+      }
+    ],
+    "total": 130.0,
+    "discount": 0.0,
+    "final_cost": 130.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_006_INV-2025-006.pdf"
+  },
+  {
+    "sale_no": 7,
+    "invoice_no": 7,
+    "invoice_code": "INV-2025-007",
+    "date": "2025-10-18T01:22:22.202638",
+    "items": [
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX (Smaller Size than FP SPECIAL) Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 1
+      },
+      {
+        "product_name": "HYDROGEN BOMB GREEN 1 BOX",
+        "price": 175.0,
+        "qty": 1
+      }
+    ],
+    "total": 420.0,
+    "discount": 200.0,
+    "final_cost": 220.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_007_INV-2025-007.pdf"
+  },
+  {
+    "sale_no": 8,
+    "invoice_no": 8,
+    "invoice_code": "INV-2025-008",
+    "date": "2025-10-18T01:22:29.415743",
+    "items": [
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX (Smaller Size than FP SPECIAL) Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 1
+      },
+      {
+        "product_name": "HYDROGEN BOMB GREEN 1 BOX",
+        "price": 175.0,
+        "qty": 1
+      }
+    ],
+    "total": 420.0,
+    "discount": 200.0,
+    "final_cost": 220.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_008_INV-2025-008.pdf"
+  },
+  {
+    "sale_no": 9,
+    "invoice_no": 9,
+    "invoice_code": "INV-2025-009",
+    "date": "2025-10-18T01:22:32.110508",
+    "items": [
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX (Smaller Size than FP SPECIAL) Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 1
+      },
+      {
+        "product_name": "HYDROGEN BOMB GREEN 1 BOX",
+        "price": 175.0,
+        "qty": 1
+      }
+    ],
+    "total": 420.0,
+    "discount": 200.0,
+    "final_cost": 220.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_009_INV-2025-009.pdf"
+  },
+  {
+    "sale_no": 10,
+    "invoice_no": 10,
+    "invoice_code": "INV-2025-010",
+    "date": "2025-10-18T01:22:56.038166",
+    "items": [
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX (Smaller Size than FP SPECIAL) Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 1
+      },
+      {
+        "product_name": "HYDROGEN BOMB GREEN 1 BOX",
+        "price": 175.0,
+        "qty": 1
+      }
+    ],
+    "total": 420.0,
+    "discount": 0.0,
+    "final_cost": 420.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_010_INV-2025-010.pdf"
+  },
+  {
+    "sale_no": 11,
+    "invoice_no": 11,
+    "invoice_code": "INV-2025-011",
+    "date": "2025-10-18T01:23:29.705235",
+    "items": [
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 12CM 1BOX",
+        "price": 90.0,
+        "qty": 1
+      },
+      {
+        "product_name": "12 SHOTS \u2013 ALL VARIETY 1 BOX",
+        "price": 375.0,
+        "qty": 1
+      }
+    ],
+    "total": 465.0,
+    "discount": 0.0,
+    "final_cost": 465.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_011_INV-2025-011.pdf"
+  },
+  {
+    "sale_no": 12,
+    "invoice_no": 12,
+    "invoice_code": "INV-2025-012",
+    "date": "2025-10-18T10:54:52.060073",
+    "items": [
+      {
+        "product_name": "25 Shots \u2013 Standard",
+        "price": 1200.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Whizz Wheels 1 BOX \u2013 5 Pcs",
+        "price": 225.0,
+        "qty": 2
+      },
+      {
+        "product_name": "FLOWER POTS GIANT 1 BOX",
+        "price": 650.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX (Smaller Size than FP SPECIAL) Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX",
+        "price": 140.0,
+        "qty": 2
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG",
+        "price": 100.0,
+        "qty": 1
+      },
+      {
+        "product_name": "MINE OF SHOTS 1 BOX \u2013 5 Pcs",
+        "price": 375.0,
+        "qty": 2
+      }
+    ],
+    "total": 3675.0,
+    "discount": 225.0,
+    "final_cost": 3450.0,
+    "payment_mode": "UPI",
+    "pdf_file": "Sale_012_INV-2025-012.pdf"
+  },
+  {
+    "sale_no": 13,
+    "invoice_no": 13,
+    "invoice_code": "INV-2025-013",
+    "date": "2025-10-18T12:00:12.318483",
+    "items": [
+      {
+        "product_name": "ROLL AYYAN / STANDARD",
+        "price": 150.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG",
+        "price": 100.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 15CM 1BOX",
+        "price": 135.0,
+        "qty": 5
+      },
+      {
+        "product_name": "RED CINDERELLA (1 Box)",
+        "price": 725.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR DELUXE 1 BOX \u2013 10 Pcs",
+        "price": 375.0,
+        "qty": 3
+      },
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX (Smaller Size than FP SPECIAL) Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 5
+      },
+      {
+        "product_name": "POP POP 1 BUNDLE (50 BOXES)",
+        "price": 500.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ELECTRIC STONE 1 BOX",
+        "price": 100.0,
+        "qty": 1
+      },
+      {
+        "product_name": "200 Wala (Other Brand)",
+        "price": 200.0,
+        "qty": 1
+      },
+      {
+        "product_name": "JACK GUN",
+        "price": 70.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ZEEBRA GUN",
+        "price": 130.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Pandian-Snakes",
+        "price": 80.0,
+        "qty": 2
+      }
+    ],
+    "total": 5160.0,
+    "discount": 260.0,
+    "final_cost": 4900.0,
+    "payment_mode": "UPI",
+    "pdf_file": "Sale_013_INV-2025-013.pdf"
+  },
+  {
+    "sale_no": 14,
+    "invoice_no": 14,
+    "invoice_code": "INV-2025-014",
+    "date": "2025-10-18T12:50:50.656936",
+    "items": [
+      {
+        "product_name": "FLOWER POTS GIANT 1 BOX",
+        "price": 650.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FLOWER POTS SPECIAL 1 BOX",
+        "price": 340.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR ASHOKA 1 BOX \u2013 10 Pcs",
+        "price": 180.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR DELUXE 1 BOX \u2013 10 Pcs",
+        "price": 375.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Golden Whistle \u2013 5 Pcs",
+        "price": 300.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FIRE PENCIL 1 BOX",
+        "price": 150.0,
+        "qty": 2
+      },
+      {
+        "product_name": "Scarlet Saucer \u2013 5 Pcs",
+        "price": 375.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 15CM 1BOX",
+        "price": 135.0,
+        "qty": 10
+      },
+      {
+        "product_name": "Whizz Wheels 1 BOX \u2013 5 Pcs",
+        "price": 225.0,
+        "qty": 1
+      },
+      {
+        "product_name": "JADE FLOWERS",
+        "price": 495.0,
+        "qty": 1
+      },
+      {
+        "product_name": "METEOR 1 BOX",
+        "price": 425.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RED CINDERELLA (1 Box)",
+        "price": 725.0,
+        "qty": 1
+      },
+      {
+        "product_name": "GOLDEN DROPS 1 BOX",
+        "price": 475.0,
+        "qty": 1
+      },
+      {
+        "product_name": "MINE OF SHOTS 1 BOX \u2013 5 Pcs",
+        "price": 375.0,
+        "qty": 1
+      },
+      {
+        "product_name": "BOMB ROCKET 1 BOX",
+        "price": 250.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RAINBOW ROCKET 1 BOX",
+        "price": 240.0,
+        "qty": 1
+      },
+      {
+        "product_name": "2\" COMETS \u2013 ALL VARIETY 1 BOX",
+        "price": 475.0,
+        "qty": 2
+      },
+      {
+        "product_name": "3\" COMETS \u2013 ALL VARIETY 1 BOX",
+        "price": 575.0,
+        "qty": 1
+      },
+      {
+        "product_name": "1\" COMETS \u2013 ALL VARIETY 1 BOX",
+        "price": 150.0,
+        "qty": 5
+      },
+      {
+        "product_name": "'2000' WALA 1 STRING (Other Brand)",
+        "price": 1600.0,
+        "qty": 1
+      },
+      {
+        "product_name": "60 Shots \u2013 Standard",
+        "price": 2800.0,
+        "qty": 1
+      },
+      {
+        "product_name": "POP POP 1 BOX",
+        "price": 10.0,
+        "qty": 10
+      }
+    ],
+    "total": 13855.0,
+    "discount": 0.0,
+    "final_cost": 13855.0,
+    "payment_mode": "UPI",
+    "pdf_file": "Sale_014_INV-2025-014.pdf"
+  },
+  {
+    "sale_no": 15,
+    "invoice_no": 15,
+    "invoice_code": "INV-2025-015",
+    "date": "2025-10-18T13:02:25.646619",
+    "items": [
+      {
+        "product_name": "Lavender Fountain \u2013 3 Pcs",
+        "price": 700.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Whizz Wheels 1 BOX \u2013 5 Pcs",
+        "price": 225.0,
+        "qty": 2
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG",
+        "price": 100.0,
+        "qty": 1
+      },
+      {
+        "product_name": "COLOR SMOKE FOUNTAIN 1 BOX",
+        "price": 175.0,
+        "qty": 2
+      },
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX (Smaller Size than FP SPECIAL) Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 2
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 30CM 1BOX",
+        "price": 135.0,
+        "qty": 5
+      },
+      {
+        "product_name": "HYDROGEN BOMB GREEN 1 BOX",
+        "price": 175.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Pandian-Snakes",
+        "price": 80.0,
+        "qty": 1
+      },
+      {
+        "product_name": "POP POP 1 BOX",
+        "price": 10.0,
+        "qty": 2
+      }
+    ],
+    "total": 3370.0,
+    "discount": 0.0,
+    "final_cost": 3370.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_015_INV-2025-015.pdf"
+  },
+  {
+    "sale_no": 16,
+    "invoice_no": 16,
+    "invoice_code": "INV-2025-016",
+    "date": "2025-10-18T13:29:48.492219",
+    "items": [
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 30CM 1BOX",
+        "price": 135.0,
+        "qty": 10
+      },
+      {
+        "product_name": "Taj Giant \u2013 1 PKT",
+        "price": 80.0,
+        "qty": 10
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG",
+        "price": 100.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 15CM 1BOX",
+        "price": 130.0,
+        "qty": 10
+      },
+      {
+        "product_name": "STANDARD '1000' WALA MAGIC CRACKERS 1 STRING",
+        "price": 800.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Whizz Wheels 1 BOX \u2013 5 Pcs",
+        "price": 225.0,
+        "qty": 3
+      },
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 7
+      },
+      {
+        "product_name": "CHEERS",
+        "price": 450.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD '100' WALA MAGIC CRACKERS 1 STRING",
+        "price": 150.0,
+        "qty": 11
+      },
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX (Smaller Size than FP SPECIAL) Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 3
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR ASHOKA 1 BOX \u2013 10 Pcs",
+        "price": 180.0,
+        "qty": 3
+      },
+      {
+        "product_name": "FLOWER POTS SPECIAL 1 BOX",
+        "price": 340.0,
+        "qty": 2
+      },
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 7CM 1 Box",
+        "price": 25.0,
+        "qty": 10
+      },
+      {
+        "product_name": "POP POP 1 BOX",
+        "price": 10.0,
+        "qty": 4
+      }
+    ],
+    "total": 10260.0,
+    "discount": 0.0,
+    "final_cost": 10260.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_016_INV-2025-016.pdf"
+  },
+  {
+    "sale_no": 17,
+    "invoice_no": 17,
+    "invoice_code": "INV-2025-017",
+    "date": "2025-10-18T13:35:48.414085",
+    "items": [
+      {
+        "product_name": "Ayyan Ring Caps",
+        "price": 10.0,
+        "qty": 3
+      },
+      {
+        "product_name": "ZEEBRA GUN",
+        "price": 130.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 30CM 1BOX",
+        "price": 135.0,
+        "qty": 1
+      },
+      {
+        "product_name": "POP POP 1 BOX",
+        "price": 10.0,
+        "qty": 3
+      }
+    ],
+    "total": 325.0,
+    "discount": 0.0,
+    "final_cost": 325.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_017_INV-2025-017.pdf"
+  },
+  {
+    "sale_no": 18,
+    "invoice_no": 18,
+    "invoice_code": "INV-2025-018",
+    "date": "2025-10-18T13:42:17.573268",
+    "items": [
+      {
+        "product_name": "GOLDEN DROPS 1 BOX",
+        "price": 475.0,
+        "qty": 1
+      }
+    ],
+    "total": 475.0,
+    "discount": 75.0,
+    "final_cost": 400.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_018_INV-2025-018.pdf"
+  },
+  {
+    "sale_no": 19,
+    "invoice_no": 19,
+    "invoice_code": "INV-2025-019",
+    "date": "2025-10-18T14:31:41.347161",
+    "items": [
+      {
+        "product_name": "7 SHOTS 1 BOX",
+        "price": 325.0,
+        "qty": 1
+      },
+      {
+        "product_name": "2\" COMETS \u2013 ALL VARIETY 1 BOX",
+        "price": 475.0,
+        "qty": 1
+      },
+      {
+        "product_name": "1\" COMETS \u2013 ALL VARIETY 1 BOX",
+        "price": 150.0,
+        "qty": 4
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 30CM 1BOX",
+        "price": 135.0,
+        "qty": 3
+      },
+      {
+        "product_name": "SILVER JET ROCKET",
+        "price": 400.0,
+        "qty": 1
+      },
+      {
+        "product_name": "12 SHOTS \u2013 ALL VARIETY 1 BOX",
+        "price": 375.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Colour World 1 Box",
+        "price": 700.0,
+        "qty": 1
+      }
+    ],
+    "total": 3280.0,
+    "discount": 0.0,
+    "final_cost": 3280.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_019_INV-2025-019.pdf"
+  },
+  {
+    "sale_no": 20,
+    "invoice_no": 20,
+    "invoice_code": "INV-2025-020",
+    "date": "2025-10-18T14:53:58.792514",
+    "items": [
+      {
+        "product_name": "RED BIJILI 1 BAG",
+        "price": 100.0,
+        "qty": 2
+      },
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 2
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 15CM 1BOX",
+        "price": 130.0,
+        "qty": 2
+      },
+      {
+        "product_name": "SILVER JET ROCKET",
+        "price": 400.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FLOWER POTS SPECIAL 1 BOX",
+        "price": 340.0,
+        "qty": 2
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX",
+        "price": 140.0,
+        "qty": 2
+      },
+      {
+        "product_name": "TWINKLING STAR 60CM 1 BOX",
+        "price": 160.0,
+        "qty": 2
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR ASHOKA 1 BOX \u2013 10 Pcs",
+        "price": 180.0,
+        "qty": 1
+      }
+    ],
+    "total": 2480.0,
+    "discount": 0.0,
+    "final_cost": 2480.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_020_INV-2025-020.pdf"
+  },
+  {
+    "sale_no": 21,
+    "invoice_no": 21,
+    "invoice_code": "INV-2025-021",
+    "date": "2025-10-18T15:26:37.810301",
+    "items": [
+      {
+        "product_name": "POP POP 1 BOX",
+        "price": 10.0,
+        "qty": 1
+      },
+      {
+        "product_name": "100 Wala (Other Brand)",
+        "price": 130.0,
+        "qty": 2
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 30CM 1BOX",
+        "price": 135.0,
+        "qty": 5
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX",
+        "price": 140.0,
+        "qty": 5
+      },
+      {
+        "product_name": "TRI COLOR FOUNTAIN (MILLENNIUM) 1 BOX",
+        "price": 750.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Whizz Wheels 1 BOX \u2013 5 Pcs",
+        "price": 225.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Pandav",
+        "price": 275.0,
+        "qty": 1
+      },
+      {
+        "product_name": "GOLDEN DROPS 1 BOX",
+        "price": 475.0,
+        "qty": 1
+      },
+      {
+        "product_name": "HYDROGEN BOMB GREEN 1 BOX",
+        "price": 175.0,
+        "qty": 1
+      },
+      {
+        "product_name": "10 CM HERCULES DELUXE",
+        "price": 90.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FLOWER POTS GIANT 1 BOX",
+        "price": 650.0,
+        "qty": 1
+      },
+      {
+        "product_name": "12 SHOTS \u2013 ALL VARIETY 1 BOX",
+        "price": 375.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Taj Giant \u2013 1 PKT",
+        "price": 80.0,
+        "qty": 4
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR DELUXE 1 BOX \u2013 10 Pcs",
+        "price": 375.0,
+        "qty": 1
+      },
+      {
+        "product_name": "7 SHOTS 1 BOX",
+        "price": 325.0,
+        "qty": 2
+      }
+    ],
+    "total": 6005.0,
+    "discount": 415.0,
+    "final_cost": 5590.0,
+    "payment_mode": "UPI",
+    "pdf_file": "Sale_021_INV-2025-021.pdf"
+  },
+  {
+    "sale_no": 22,
+    "invoice_no": 22,
+    "invoice_code": "INV-2025-022",
+    "date": "2025-10-18T15:48:55.062755",
+    "items": [
+      {
+        "product_name": "POP POP 1 BUNDLE (50 BOXES)",
+        "price": 500.0,
+        "qty": 3
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 15CM 1BOX",
+        "price": 130.0,
+        "qty": 4
+      },
+      {
+        "product_name": "MINI FOUNTAIN",
+        "price": 160.0,
+        "qty": 2
+      },
+      {
+        "product_name": "FLOWER POTS SPECIAL 1 BOX",
+        "price": 340.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Pandian-Snakes",
+        "price": 80.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Disco Jumbo Mini",
+        "price": 85.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Samrath Jumbo Deluxe",
+        "price": 200.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RAINBOW FOG 1 BOX",
+        "price": 275.0,
+        "qty": 2
+      }
+    ],
+    "total": 3925.0,
+    "discount": 0.0,
+    "final_cost": 3925.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_022_INV-2025-022.pdf"
+  },
+  {
+    "sale_no": 23,
+    "invoice_no": 23,
+    "invoice_code": "INV-2025-023",
+    "date": "2025-10-18T15:56:38.007053",
+    "items": [
+      {
+        "product_name": "ZEEBRA GUN",
+        "price": 130.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RAINBOW FOG 1 BOX",
+        "price": 275.0,
+        "qty": 2
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR ASHOKA 1 BOX \u2013 10 Pcs",
+        "price": 180.0,
+        "qty": 2
+      },
+      {
+        "product_name": "MULTI COLOR CANDLE 1 BOX",
+        "price": 190.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Pandian-Snakes",
+        "price": 80.0,
+        "qty": 1
+      },
+      {
+        "product_name": "TWINKLING STAR 45CM 1 BOX",
+        "price": 135.0,
+        "qty": 2
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR BIG 1 BOX \u2013 10 Pcs ",
+        "price": 120.0,
+        "qty": 2
+      },
+      {
+        "product_name": "ROLL AYYAN / STANDARD",
+        "price": 150.0,
+        "qty": 2
+      },
+      {
+        "product_name": "FLOWER POTS GIANT 1 BOX",
+        "price": 650.0,
+        "qty": 1
+      },
+      {
+        "product_name": "TRI COLOR FOUNTAIN (MILLENNIUM) 1 BOX",
+        "price": 750.0,
+        "qty": 2
+      }
+    ],
+    "total": 4270.0,
+    "discount": 0.0,
+    "final_cost": 4270.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_023_INV-2025-023.pdf"
+  },
+  {
+    "sale_no": 24,
+    "invoice_no": 24,
+    "invoice_code": "INV-2025-024",
+    "date": "2025-10-18T16:07:21.328052",
+    "items": [
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      },
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 10
+      },
+      {
+        "product_name": "TRI COLOR FOUNTAIN (MILLENNIUM) 1 BOX",
+        "price": 750.0,
+        "qty": 2
+      }
+    ],
+    "total": 2630.0,
+    "discount": 30.0,
+    "final_cost": 2600.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_024_INV-2025-024.pdf"
+  },
+  {
+    "sale_no": 25,
+    "invoice_no": 25,
+    "invoice_code": "INV-2025-025",
+    "date": "2025-10-18T16:10:24.253371",
+    "items": [
+      {
+        "product_name": "CENJO GUN",
+        "price": 70.0,
+        "qty": 3
+      },
+      {
+        "product_name": "ROLL AYYAN / STANDARD",
+        "price": 150.0,
+        "qty": 2
+      },
+      {
+        "product_name": "TRI COLOR FOUNTAIN (MILLENNIUM) 1 BOX",
+        "price": 750.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR DELUXE 1 BOX \u2013 10 Pcs",
+        "price": 375.0,
+        "qty": 5
+      },
+      {
+        "product_name": "RED CINDERELLA (1 Box)",
+        "price": 725.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX",
+        "price": 140.0,
+        "qty": 10
+      },
+      {
+        "product_name": "TWINKLING STAR DELUXE 120CM 1 BOX",
+        "price": 225.0,
+        "qty": 5
+      }
+    ],
+    "total": 6385.0,
+    "discount": 0.0,
+    "final_cost": 6385.0,
+    "payment_mode": "UPI",
+    "pdf_file": "Sale_025_INV-2025-025.pdf"
+  },
+  {
+    "sale_no": 26,
+    "invoice_no": 26,
+    "invoice_code": "INV-2025-026",
+    "date": "2025-10-18T16:36:30.207558",
+    "items": [
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX  Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 2
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG",
+        "price": 100.0,
+        "qty": 4
+      },
+      {
+        "product_name": "9 CM LAXMI",
+        "price": 70.0,
+        "qty": 2
+      },
+      {
+        "product_name": "Taj Giant \u2013 1 PKT",
+        "price": 80.0,
+        "qty": 5
+      },
+      {
+        "product_name": "Whizz Wheels 1 BOX \u2013 5 Pcs",
+        "price": 225.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Disco Jumbo Mini",
+        "price": 85.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Pandav",
+        "price": 275.0,
+        "qty": 1
+      },
+      {
+        "product_name": "POP POP 1 BUNDLE (50 BOXES)",
+        "price": 500.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR BIG 1 BOX \u2013 10 Pcs ",
+        "price": 120.0,
+        "qty": 4
+      },
+      {
+        "product_name": "MINE OF SHOTS 1 BOX \u2013 5 Pcs",
+        "price": 375.0,
+        "qty": 2
+      },
+      {
+        "product_name": "Golden Whistle \u2013 5 Pcs",
+        "price": 300.0,
+        "qty": 1
+      },
+      {
+        "product_name": "12 SHOTS \u2013 ALL VARIETY 1 BOX",
+        "price": 375.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD '100' WALA MAGIC CRACKERS 1 STRING",
+        "price": 150.0,
+        "qty": 5
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 7CM 1 Box",
+        "price": 25.0,
+        "qty": 20
+      }
+    ],
+    "total": 5670.0,
+    "discount": 397.0,
+    "final_cost": 5273.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_026_INV-2025-026.pdf"
+  },
+  {
+    "sale_no": 27,
+    "invoice_no": 27,
+    "invoice_code": "INV-2025-027",
+    "date": "2025-10-18T16:41:34.209364",
+    "items": [
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 12CM 1BOX",
+        "price": 95.0,
+        "qty": 2
+      }
+    ],
+    "total": 190.0,
+    "discount": 0.0,
+    "final_cost": 190.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_027_INV-2025-027.pdf"
+  },
+  {
+    "sale_no": 28,
+    "invoice_no": 28,
+    "invoice_code": "INV-2025-028",
+    "date": "2025-10-18T16:55:10.346312",
+    "items": [
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 12CM 1BOX",
+        "price": 95.0,
+        "qty": 1
+      }
+    ],
+    "total": 95.0,
+    "discount": 0.0,
+    "final_cost": 95.0,
+    "payment_mode": "UPI",
+    "pdf_file": "Sale_028_INV-2025-028.pdf"
+  },
+  {
+    "sale_no": 29,
+    "invoice_no": 29,
+    "invoice_code": "INV-2025-029",
+    "date": "2025-10-18T17:01:59.277541",
+    "items": [
+      {
+        "product_name": "TWINKLING STAR 45CM 1 BOX",
+        "price": 135.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 15CM 1BOX",
+        "price": 135.0,
+        "qty": 1
+      },
+      {
+        "product_name": "100 Wala (Other Brand)",
+        "price": 130.0,
+        "qty": 2
+      },
+      {
+        "product_name": "Whizz Wheels 1 BOX \u2013 5 Pcs",
+        "price": 225.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR DELUXE 1 BOX \u2013 10 Pcs",
+        "price": 375.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      },
+      {
+        "product_name": "1\" COMETS \u2013 ALL VARIETY 1 BOX",
+        "price": 150.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FLOWER POTS SPECIAL 1 BOX",
+        "price": 340.0,
+        "qty": 1
+      },
+      {
+        "product_name": "POP POP 1 BUNDLE (50 BOXES)",
+        "price": 500.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FIRE PENCIL 1 BOX",
+        "price": 150.0,
+        "qty": 5
+      },
+      {
+        "product_name": "Pandian-Snakes",
+        "price": 80.0,
+        "qty": 2
+      },
+      {
+        "product_name": "Disco Jumbo Mini",
+        "price": 85.0,
+        "qty": 2
+      },
+      {
+        "product_name": "Samrath Jumbo Deluxe",
+        "price": 200.0,
+        "qty": 1
+      }
+    ],
+    "total": 3730.0,
+    "discount": 230.0,
+    "final_cost": 3500.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_029_INV-2025-029.pdf"
+  },
+  {
+    "sale_no": 30,
+    "invoice_no": 30,
+    "invoice_code": "INV-2025-030",
+    "date": "2025-10-18T17:39:09.103559",
+    "items": [
+      {
+        "product_name": "1\" COMETS \u2013 ALL VARIETY 1 BOX",
+        "price": 225.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FLOWER POTS SPECIAL 1 BOX",
+        "price": 340.0,
+        "qty": 1
+      },
+      {
+        "product_name": "MINI FOUNTAIN",
+        "price": 160.0,
+        "qty": 1
+      },
+      {
+        "product_name": "TWINKLING STAR 45CM 1 BOX",
+        "price": 135.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 7CM 1 Box",
+        "price": 25.0,
+        "qty": 2
+      },
+      {
+        "product_name": "100 Wala (Other Brand)",
+        "price": 130.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX",
+        "price": 140.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR DELUXE 1 BOX \u2013 10 Pcs",
+        "price": 375.0,
+        "qty": 1
+      }
+    ],
+    "total": 1555.0,
+    "discount": 155.0,
+    "final_cost": 1400.0,
+    "payment_mode": "UPI",
+    "pdf_file": "Sale_030_INV-2025-030.pdf"
+  },
+  {
+    "sale_no": 31,
+    "invoice_no": 31,
+    "invoice_code": "INV-2025-031",
+    "date": "2025-10-18T17:41:53.042513",
+    "items": [
+      {
+        "product_name": "12 SHOTS \u2013 ALL VARIETY 1 BOX",
+        "price": 375.0,
+        "qty": 2
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG (Other)",
+        "price": 50.0,
+        "qty": 2
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 15CM 1BOX",
+        "price": 130.0,
+        "qty": 2
+      }
+    ],
+    "total": 1110.0,
+    "discount": 10.0,
+    "final_cost": 1100.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_031_INV-2025-031.pdf"
+  },
+  {
+    "sale_no": 32,
+    "invoice_no": 32,
+    "invoice_code": "INV-2025-032",
+    "date": "2025-10-18T17:47:23.653849",
+    "items": [
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX  Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 1
+      },
+      {
+        "product_name": "POP POP 1 BOX",
+        "price": 10.0,
+        "qty": 7
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 15CM 1BOX",
+        "price": 135.0,
+        "qty": 2
+      },
+      {
+        "product_name": "FIRE PENCIL 1 BOX",
+        "price": 150.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR BIG 1 BOX \u2013 10 Pcs ",
+        "price": 120.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX",
+        "price": 140.0,
+        "qty": 1
+      }
+    ],
+    "total": 995.0,
+    "discount": 0.0,
+    "final_cost": 995.0,
+    "payment_mode": "UPI",
+    "pdf_file": "Sale_032_INV-2025-032.pdf"
+  },
+  {
+    "sale_no": 33,
+    "invoice_no": 33,
+    "invoice_code": "INV-2025-033",
+    "date": "2025-10-18T18:08:22.965930",
+    "items": [
+      {
+        "product_name": "STANDARD '28' MAGIC CRACKERS \u2013 1 PKT",
+        "price": 55.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Taj Giant \u2013 1 PKT",
+        "price": 80.0,
+        "qty": 1
+      },
+      {
+        "product_name": "POP POP 1 BOX",
+        "price": 10.0,
+        "qty": 6
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG",
+        "price": 100.0,
+        "qty": 2
+      },
+      {
+        "product_name": "ELECTRIC STONE 1 BOX",
+        "price": 100.0,
+        "qty": 2
+      }
+    ],
+    "total": 595.0,
+    "discount": 0.0,
+    "final_cost": 595.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_033_INV-2025-033.pdf"
+  },
+  {
+    "sale_no": 34,
+    "invoice_no": 34,
+    "invoice_code": "INV-2025-034",
+    "date": "2025-10-18T18:18:59.291950",
+    "items": [
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 15CM 1BOX",
+        "price": 130.0,
+        "qty": 2
+      },
+      {
+        "product_name": "RAINBOW ROCKET 1 BOX",
+        "price": 240.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FLOWER POTS SPECIAL 1 BOX",
+        "price": 340.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 30CM 1BOX",
+        "price": 135.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX",
+        "price": 140.0,
+        "qty": 2
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR ASHOKA 1 BOX \u2013 10 Pcs",
+        "price": 180.0,
+        "qty": 2
+      }
+    ],
+    "total": 1615.0,
+    "discount": 115.0,
+    "final_cost": 1500.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_034_INV-2025-034.pdf"
+  },
+  {
+    "sale_no": 35,
+    "invoice_no": 35,
+    "invoice_code": "INV-2025-035",
+    "date": "2025-10-18T18:33:57.182917",
+    "items": [
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX  Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD '1000' WALA MAGIC CRACKERS 1 STRING",
+        "price": 800.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Taj Giant \u2013 1 PKT",
+        "price": 80.0,
+        "qty": 25
+      },
+      {
+        "product_name": "THUNDER BOMB GREEN 1 BOX",
+        "price": 250.0,
+        "qty": 1
+      },
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 20
+      },
+      {
+        "product_name": "FLOWER POTS SPECIAL 1 BOX",
+        "price": 340.0,
+        "qty": 2
+      },
+      {
+        "product_name": "FLOWER POTS GIANT 1 BOX",
+        "price": 650.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GREEN COLOR SPARKLERS 15CM 1BOX",
+        "price": 130.0,
+        "qty": 3
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 15CM 1BOX",
+        "price": 135.0,
+        "qty": 2
+      },
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      }
+    ],
+    "total": 7215.0,
+    "discount": 615.0,
+    "final_cost": 6600.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_035_INV-2025-035.pdf"
+  },
+  {
+    "sale_no": 36,
+    "invoice_no": 36,
+    "invoice_code": "INV-2025-036",
+    "date": "2025-10-18T18:46:01.685556",
+    "items": [
+      {
+        "product_name": "Pandian-Snakes",
+        "price": 80.0,
+        "qty": 1
+      },
+      {
+        "product_name": "POP POP 1 BOX",
+        "price": 10.0,
+        "qty": 20
+      },
+      {
+        "product_name": "Taj Giant \u2013 1 PKT",
+        "price": 80.0,
+        "qty": 4
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG (Other)",
+        "price": 50.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR ASHOKA 1 BOX \u2013 10 Pcs",
+        "price": 180.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Whizz Wheels 1 BOX \u2013 5 Pcs",
+        "price": 225.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FLOWER POTS SPECIAL 1 BOX",
+        "price": 340.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Disco Jumbo Mini",
+        "price": 85.0,
+        "qty": 1
+      },
+      {
+        "product_name": "MINI FOUNTAIN",
+        "price": 160.0,
+        "qty": 1
+      },
+      {
+        "product_name": "10 CM HERCULES DELUXE",
+        "price": 90.0,
+        "qty": 1
+      },
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 1
+      },
+      {
+        "product_name": "HYDROGEN BOMB GREEN 1 BOX",
+        "price": 175.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 15CM 1BOX",
+        "price": 130.0,
+        "qty": 2
+      },
+      {
+        "product_name": "ELECTRIC STONE 1 BOX",
+        "price": 100.0,
+        "qty": 2
+      },
+      {
+        "product_name": "RAINBOW FOG 1 BOX",
+        "price": 275.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG",
+        "price": 100.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 30CM 1BOX",
+        "price": 135.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FIRE PENCIL 1 BOX",
+        "price": 150.0,
+        "qty": 1
+      }
+    ],
+    "total": 3105.0,
+    "discount": 105.0,
+    "final_cost": 3000.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_036_INV-2025-036.pdf"
+  },
+  {
+    "sale_no": 37,
+    "invoice_no": 37,
+    "invoice_code": "INV-2025-037",
+    "date": "2025-10-18T18:58:18.693090",
+    "items": [
+      {
+        "product_name": "FLOWER POTS GIANT 1 BOX",
+        "price": 650.0,
+        "qty": 12
+      },
+      {
+        "product_name": "ROHINI ROCKET 1 BOX",
+        "price": 400.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RAINBOW ROCKET 1 BOX",
+        "price": 240.0,
+        "qty": 1
+      },
+      {
+        "product_name": "BOMB ROCKET 1 BOX",
+        "price": 250.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 12CM 1BOX",
+        "price": 95.0,
+        "qty": 12
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 30CM 1BOX",
+        "price": 135.0,
+        "qty": 24
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX",
+        "price": 140.0,
+        "qty": 24
+      },
+      {
+        "product_name": "FLOWER POTS BIG 1 BOX  Each Box \u2013 10 Pieces",
+        "price": 245.0,
+        "qty": 12
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR DELUXE 1 BOX \u2013 10 Pcs",
+        "price": 375.0,
+        "qty": 12
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR BIG 1 BOX \u2013 10 Pcs ",
+        "price": 120.0,
+        "qty": 12
+      }
+    ],
+    "total": 25310.0,
+    "discount": 3797.0,
+    "final_cost": 21513.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_037_INV-2025-037.pdf"
+  },
+  {
+    "sale_no": 38,
+    "invoice_no": 38,
+    "invoice_code": "INV-2025-038",
+    "date": "2025-10-18T19:11:54.567834",
+    "items": [
+      {
+        "product_name": "COLOR SMOKE FOUNTAIN 1 BOX",
+        "price": 175.0,
+        "qty": 2
+      },
+      {
+        "product_name": "ELECTRIC STONE 1 BOX",
+        "price": 100.0,
+        "qty": 5
+      },
+      {
+        "product_name": "THUNDER BOMB GREEN 1 BOX",
+        "price": 250.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Whizz Wheels 1 BOX \u2013 5 Pcs",
+        "price": 225.0,
+        "qty": 1
+      },
+      {
+        "product_name": "MULTI COLOR CANDLE 1 BOX",
+        "price": 190.0,
+        "qty": 2
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR DELUXE 1 BOX \u2013 10 Pcs",
+        "price": 375.0,
+        "qty": 2
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX",
+        "price": 140.0,
+        "qty": 5
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG",
+        "price": 100.0,
+        "qty": 3
+      },
+      {
+        "product_name": "Colour World 1 Box",
+        "price": 700.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FLOWER POTS GIANT 1 BOX",
+        "price": 650.0,
+        "qty": 1
+      }
+    ],
+    "total": 4805.0,
+    "discount": 0.0,
+    "final_cost": 4805.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_038_INV-2025-038.pdf"
+  },
+  {
+    "sale_no": 39,
+    "invoice_no": 39,
+    "invoice_code": "INV-2025-039",
+    "date": "2025-10-18T19:17:18.619461",
+    "items": [
+      {
+        "product_name": "POP POP 1 BOX",
+        "price": 10.0,
+        "qty": 10
+      },
+      {
+        "product_name": "FLOWER POTS GIANT 1 BOX",
+        "price": 650.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Colour World 1 Box",
+        "price": 700.0,
+        "qty": 1
+      },
+      {
+        "product_name": "RED BIJILI 1 BAG",
+        "price": 100.0,
+        "qty": 3
+      },
+      {
+        "product_name": "STANDARD CRACKLING SPARKLERS 30CM 1BOX",
+        "price": 140.0,
+        "qty": 10
+      },
+      {
+        "product_name": "ZAMIN CHAKKAR DELUXE 1 BOX \u2013 10 Pcs",
+        "price": 375.0,
+        "qty": 2
+      },
+      {
+        "product_name": "MULTI COLOR CANDLE 1 BOX",
+        "price": 190.0,
+        "qty": 2
+      },
+      {
+        "product_name": "Whizz Wheels 1 BOX \u2013 5 Pcs",
+        "price": 225.0,
+        "qty": 1
+      },
+      {
+        "product_name": "THUNDER BOMB GREEN 1 BOX",
+        "price": 250.0,
+        "qty": 1
+      },
+      {
+        "product_name": "ELECTRIC STONE 1 BOX",
+        "price": 100.0,
+        "qty": 5
+      },
+      {
+        "product_name": "COLOR SMOKE FOUNTAIN 1 BOX",
+        "price": 175.0,
+        "qty": 2
+      },
+      {
+        "product_name": "STANDARD '100' WALA MAGIC CRACKERS 1 STRING",
+        "price": 150.0,
+        "qty": 2
+      }
+    ],
+    "total": 5905.0,
+    "discount": 414.0,
+    "final_cost": 5491.0,
+    "payment_mode": "UPI",
+    "pdf_file": "Sale_039_INV-2025-039.pdf"
+  },
+  {
+    "sale_no": 40,
+    "invoice_no": 40,
+    "invoice_code": "INV-2025-040",
+    "date": "2025-10-18T23:05:12.880715",
+    "items": [
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 1
+      }
+    ],
+    "total": 80.0,
+    "discount": 0.0,
+    "final_cost": 80.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_040_INV-2025-040.pdf"
+  },
+  {
+    "sale_no": 41,
+    "invoice_no": 41,
+    "invoice_code": "INV-2025-041",
+    "date": "2025-10-18T23:20:45.186850",
+    "items": [
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 1
+      }
+    ],
+    "total": 80.0,
+    "discount": 0.0,
+    "final_cost": 80.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_041_INV-2025-041.pdf"
+  },
+  {
+    "sale_no": 42,
+    "invoice_no": 42,
+    "invoice_code": "INV-2025-042",
+    "date": "2025-10-18T23:59:23.454393",
+    "items": [
+      {
+        "product_name": "Scarlet Saucer \u2013 5 Pcs",
+        "price": 375.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STD TRI COLOR (3 IN 1) 15CM 1BOX",
+        "price": 330.0,
+        "qty": 1
+      },
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 50
+      }
+    ],
+    "total": 4705.0,
+    "discount": 0.0,
+    "final_cost": 4705.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_042_INV-2025-042.pdf"
+  },
+  {
+    "sale_no": 43,
+    "invoice_no": 43,
+    "invoice_code": "INV-2025-043",
+    "date": "2025-10-19T00:01:53.855729",
+    "items": [
+      {
+        "product_name": "9 CM LAXMI",
+        "price": 70.0,
+        "qty": 50
+      }
+    ],
+    "total": 3500.0,
+    "discount": 0.0,
+    "final_cost": 3500.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_043_INV-2025-043.pdf"
+  },
+  {
+    "sale_no": 44,
+    "invoice_no": 44,
+    "invoice_code": "INV-2025-044",
+    "date": "2025-10-19T00:10:49.908665",
+    "items": [
+      {
+        "product_name": "200 Wala (Other Brand)",
+        "price": 200.0,
+        "qty": 1
+      },
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 1
+      },
+      {
+        "product_name": "FIRE PENCIL 1 BOX",
+        "price": 150.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Scarlet Saucer \u2013 5 Pcs",
+        "price": 375.0,
+        "qty": 12
+      }
+    ],
+    "total": 4930.0,
+    "discount": 0.0,
+    "final_cost": 4930.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_044_INV-2025-044.pdf"
+  },
+  {
+    "sale_no": 45,
+    "invoice_no": 45,
+    "invoice_code": "INV-2025-045",
+    "date": "2025-10-19T00:13:10.850363",
+    "items": [
+      {
+        "product_name": "FIRE PENCIL 1 BOX",
+        "price": 150.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 7CM 1 Box",
+        "price": 25.0,
+        "qty": 1
+      }
+    ],
+    "total": 175.0,
+    "discount": 0.0,
+    "final_cost": 175.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_045_INV-2025-045.pdf"
+  },
+  {
+    "sale_no": 46,
+    "invoice_no": 46,
+    "invoice_code": "INV-2025-046",
+    "date": "2025-10-19T00:24:55.731552",
+    "items": [
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 18
+      }
+    ],
+    "total": 1440.0,
+    "discount": 0.0,
+    "final_cost": 1440.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_046_INV-2025-046.pdf"
+  }
+]
