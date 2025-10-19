@@ -2081,5 +2081,115 @@
     "final_cost": 1440.0,
     "payment_mode": "Card",
     "pdf_file": "Sale_046_INV-2025-046.pdf"
+  },
+  {
+    "sale_no": 47,
+    "invoice_no": 47,
+    "invoice_code": "INV-2025-047",
+    "date": "2025-10-19T00:43:37.527233",
+    "items": [
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 58
+      }
+    ],
+    "total": 4640.0,
+    "discount": 0.0,
+    "final_cost": 4640.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_047_INV-2025-047.pdf"
+  },
+  {
+    "sale_no": 48,
+    "invoice_no": 48,
+    "invoice_code": "INV-2025-048",
+    "date": "2025-10-19T00:46:28.590992",
+    "items": [
+      {
+        "product_name": "10 CM LAXMI / KRISHNA",
+        "price": 80.0,
+        "qty": 10
+      }
+    ],
+    "total": 800.0,
+    "discount": 0.0,
+    "final_cost": 800.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_048_INV-2025-048.pdf"
+  },
+  {
+    "sale_no": 49,
+    "invoice_no": 49,
+    "invoice_code": "INV-2025-049",
+    "date": "2025-10-19T14:10:07.663921",
+    "items": [
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 7CM 1 Box",
+        "price": 25.0,
+        "qty": 10
+      }
+    ],
+    "total": 250.0,
+    "discount": 100.0,
+    "final_cost": 150.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_049_INV-2025-049.pdf"
+  },
+  {
+    "sale_no": 50,
+    "invoice_no": 50,
+    "invoice_code": "INV-2025-050",
+    "date": "2025-10-19T14:14:18.661908",
+    "items": [
+      {
+        "product_name": "Standard 15 CM Lemon Tree \u2013 10 Pcs",
+        "price": 130.0,
+        "qty": 1
+      },
+      {
+        "product_name": "Pandian-Snakes",
+        "price": 80.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 7CM 1 Box",
+        "price": 25.0,
+        "qty": 1
+      }
+    ],
+    "total": 235.0,
+    "discount": 0.0,
+    "final_cost": 235.0,
+    "payment_mode": "Card",
+    "pdf_file": "Sale_050_INV-2025-050.pdf"
+  },
+  {
+    "sale_no": 51,
+    "invoice_no": 51,
+    "invoice_code": "INV-2025-051",
+    "date": "2025-10-19T14:18:37.064375",
+    "items": [
+      {
+        "product_name": "Jewel Pots \u2013 5 Pcs in 1 Box",
+        "price": 475.0,
+        "qty": 1
+      },
+      {
+        "product_name": "LONG BOY GUN",
+        "price": 150.0,
+        "qty": 1
+      },
+      {
+        "product_name": "STANDARD GOLD SPARKLERS 7CM 1 Box",
+        "price": 25.0,
+        "qty": 1
+      }
+    ],
+    "total": 650.0,
+    "discount": 50.0,
+    "final_cost": 600.0,
+    "payment_mode": "Cash",
+    "pdf_file": "Sale_051_INV-2025-051.pdf"
   }
 ]

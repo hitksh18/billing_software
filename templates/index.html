@@ -82,18 +82,73 @@
   ::-webkit-scrollbar-thumb { background: #ffc107; border-radius: 8px; }
   ::-webkit-scrollbar-track { background: #111; }
 
-  table.table-dark th, table.table-dark td { vertical-align: middle; }
-  #cart-body { min-height: 100px; }
-
-  #cart-body:empty::after {
-    content: "No products added yet";
-    display: table-row;
-    text-align: center;
-    color: #777;
-    font-style: italic;
+  table.table-dark {
+    border-radius: 10px !important;
+    overflow: hidden;
+    background-color: #111;
   }
 
+  table.table-dark th, table.table-dark td {
+    vertical-align: middle;
+    border: none;
+  }
+
+  #cart-body td, #cart-body th {
+    border-bottom: 1px solid #222 !important;
+  }
+
+  
+#cart-body.empty-row td {
+  color: #ffc107 !important;
+  font-style: italic;
+  font-weight: 500;
+  text-align: center;
+  text-shadow: 0 0 8px rgba(255, 193, 7, 0.4);
+  background: rgba(255, 193, 7, 0.05);
+}
+
+
+
+
   footer { display: none !important; }
+
+  .qty-control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+  }
+
+  .qty-btn {
+    background: transparent;
+    border: 1px solid #ffc107;
+    color: #ffc107;
+    border-radius: 6px;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .qty-btn:hover {
+    background: #ffc107;
+    color: #000;
+  }
+
+  .qty-input {
+    width: 45px;
+    text-align: center;
+    background: #111;
+    border: 1px solid #ffc107;
+    color: #fff;
+    border-radius: 6px;
+  }
+
+  @media (max-width: 768px) {
+    .qty-input { width: 38px; }
+    table { font-size: 0.9rem; }
+  }
 </style>
 
 <!-- === Sales Icon === -->
@@ -110,14 +165,14 @@
       <label class="form-label fw-semibold text-light">Search & Add Products</label>
       <div class="input-group position-relative">
         <input id="search" class="form-control form-control-lg bg-dark text-light border-warning rounded-start"
-               placeholder="Search by name or number..." autocomplete="off" />
+               placeholder="Search by name, number, or + for custom product..." autocomplete="off" />
         <button id="clearSearch" class="btn btn-outline-warning" title="Clear">
           <i class="bi bi-x-lg text-warning"></i>
         </button>
         <div id="suggestions" class="list-group"></div>
       </div>
 
-      <table class="table table-dark table-striped mt-4 align-middle shadow-sm rounded">
+      <table class="table table-dark table-striped mt-4 align-middle shadow-sm">
         <thead class="table-warning text-dark sticky-top">
           <tr>
             <th style="width: 60px;">S.No</th>
@@ -154,41 +209,58 @@
   </div>
 </main>
 
-<!-- === Payment Modal === -->
-<div class="modal fade" id="payModal" tabindex="-1">
+<!-- === Custom Product Modal === -->
+<div class="modal fade" id="customModal" tabindex="-1">
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content bg-dark text-light border border-warning rounded-3">
       <div class="modal-header border-0">
-        <h5 class="modal-title fw-semibold text-warning">Select Payment Option</h5>
+        <h5 class="modal-title fw-semibold text-warning">Add Custom Product</h5>
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
       </div>
-      <div class="modal-body text-center">
-        <div class="d-flex justify-content-center gap-3 flex-wrap mb-3">
-          <button class="btn btn-outline-light px-4 py-2 rounded-pill fw-semibold pay-option">Cash</button>
-          <button class="btn btn-outline-light px-4 py-2 rounded-pill fw-semibold pay-option">Card</button>
-          <button class="btn btn-outline-light px-4 py-2 rounded-pill fw-semibold pay-option">UPI</button>
+      <div class="modal-body">
+        <div class="mb-3">
+          <label class="form-label text-warning">Product Name</label>
+          <input type="text" id="customName" class="form-control bg-dark text-light border-warning" placeholder="Enter product name" />
         </div>
-
-        <div class="mt-3 text-start">
-          <label for="final-cost" class="fw-semibold text-warning">Final Cost (Optional Round-Off / Discounted Total)</label>
-          <input type="number" id="final-cost"
-                 class="form-control bg-dark text-light border-warning mt-2"
-                 placeholder="Enter final rounded total (e.g. 10000)" />
-          <small class="text-muted">Leave empty if no discount or round-off is applied.</small>
+        <div class="mb-3">
+          <label class="form-label text-warning">Price (₹)</label>
+          <input type="number" id="customPrice" class="form-control bg-dark text-light border-warning" placeholder="Enter price" />
         </div>
       </div>
-
-      <div class="modal-footer border-0 justify-content-center">
-        <button class="btn btn-secondary px-4" data-bs-dismiss="modal">Cancel</button>
-        <button class="btn btn-warning text-dark fw-bold px-4" id="confirm-pay" disabled>
-          Confirm & Generate Bill
-        </button>
+      <div class="modal-footer border-0">
+        <button class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+        <button class="btn btn-warning text-dark fw-bold" id="addCustomProduct">Add</button>
       </div>
     </div>
   </div>
 </div>
 
-<!-- === Success Modal === -->
+<!-- === Payment Modal === -->
+<div class="modal fade" id="payModal" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content bg-dark text-light border border-warning rounded-3">
+      <div class="modal-header border-0">
+        <h5 class="modal-title fw-semibold text-warning">Select Payment Method</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body text-center">
+        <div class="d-flex justify-content-center gap-3 flex-wrap mb-3">
+          <button class="btn btn-outline-light pay-option">Cash</button>
+          <button class="btn btn-outline-light pay-option">Card</button>
+          <button class="btn btn-outline-light pay-option">UPI</button>
+        </div>
+        <label class="text-warning fw-semibold">Final Amount (optional round-off/discount)</label>
+        <input type="number" id="final-cost" class="form-control bg-dark text-light border-warning mt-2" placeholder="Enter final amount" />
+      </div>
+      <div class="modal-footer border-0 justify-content-center">
+        <button class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+        <button class="btn btn-warning text-dark fw-bold" id="confirm-pay" disabled>Confirm & Generate</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- === Success Modal (Print/Download/New) === -->
 <div class="modal fade" id="doneModal" tabindex="-1">
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content bg-dark text-light border border-success rounded-3 shadow-lg">
@@ -205,117 +277,150 @@
     </div>
   </div>
 </div>
+
 {% endblock %}
 
 {% block scripts %}
 <script>
 let cart = [];
 let selectedPayment = null;
-
 const searchInput = document.getElementById("search");
-const clearSearch = document.getElementById("clearSearch");
 const suggestions = document.getElementById("suggestions");
 const cartBody = document.getElementById("cart-body");
 const totalDisplay = document.getElementById("total-display");
 const grand = document.getElementById("grand");
-const confirmPay = document.getElementById("confirm-pay");
-const finalCostInput = document.getElementById("final-cost");
+const customModal = new bootstrap.Modal(document.getElementById("customModal"));
 const payModal = new bootstrap.Modal(document.getElementById("payModal"));
 const doneModal = new bootstrap.Modal(document.getElementById("doneModal"));
+const confirmPay = document.getElementById("confirm-pay");
+const finalCostInput = document.getElementById("final-cost");
 const btnPrint = document.getElementById("btn-print");
 const btnDownload = document.getElementById("btn-download");
 
-/* === Clear Search === */
-clearSearch.onclick = () => {
-  searchInput.value = "";
-  suggestions.classList.remove("show");
-  suggestions.innerHTML = "";
-  searchInput.focus();
-};
+/* === Search Enhancer (Fuzzy) === */
+function fuzzyMatch(str, query) {
+  str = str.toLowerCase();
+  query = query.toLowerCase().split(/\s+/);
+  return query.every(q => str.includes(q));
+}
 
-/* === Search Suggestions === */
+/* === Search === */
 searchInput.addEventListener("input", async () => {
   const q = searchInput.value.trim();
-  if (!q) {
-    suggestions.classList.remove("show");
-    suggestions.innerHTML = "";
+  if (q === "+") {
+    suggestions.innerHTML = `<div class="list-group-item text-center text-warning fw-semibold" id="addCustom">+ Add Custom Product</div>`;
+    suggestions.classList.add("show");
+    document.getElementById("addCustom").onclick = () => {
+      customModal.show();
+      document.getElementById("customName").value = "";
+      document.getElementById("customPrice").value = "";
+    };
     return;
   }
+
+  if (!q) return suggestions.classList.remove("show");
+
   const res = await fetch(`/api/products?q=${encodeURIComponent(q)}`);
   const data = await res.json();
+  const filtered = data.filter(p => fuzzyMatch(p.product_name, q) || fuzzyMatch(p.category, q) || fuzzyMatch(p.product_no, q));
+
   suggestions.innerHTML = "";
   suggestions.classList.add("show");
-  if (data.length === 0) {
-    suggestions.innerHTML = `<div class="list-group-item text-center text-muted bg-dark">No matches found</div>`;
+
+  if (filtered.length === 0) {
+    suggestions.innerHTML = `<div class="list-group-item text-center text-muted bg-dark">No matches found</div>
+    <div class="list-group-item text-center text-warning fw-semibold" id="addCustom">+ Add Custom Product</div>`;
+    document.getElementById("addCustom").onclick = () => {
+      customModal.show();
+      document.getElementById("customName").value = q;
+      document.getElementById("customPrice").value = "";
+    };
     return;
   }
-  data.slice(0, 10).forEach(p => {
+
+  filtered.slice(0, 10).forEach(p => {
     const item = document.createElement("div");
     item.className = "list-group-item d-flex justify-content-between align-items-center";
     item.innerHTML = `<span>${p.product_name}</span><span class="text-warning fw-semibold">₹${p.price.toFixed(2)}</span>`;
-    item.onclick = () => {
-      addToCart(p);
-      searchInput.value = "";
-      suggestions.classList.remove("show");
-    };
+    item.onclick = () => { addToCart(p); searchInput.value = ""; suggestions.classList.remove("show"); };
     suggestions.appendChild(item);
   });
+
+  const addCustom = document.createElement("div");
+  addCustom.className = "list-group-item text-center text-warning fw-semibold";
+  addCustom.textContent = "+ Add Custom Product";
+  addCustom.onclick = () => {
+    customModal.show();
+    document.getElementById("customName").value = q;
+    document.getElementById("customPrice").value = "";
+  };
+  suggestions.appendChild(addCustom);
 });
 
-/* === Hide Suggestions === */
-document.addEventListener("click", e => {
-  if (!e.target.closest("#search") && !e.target.closest("#suggestions"))
-    suggestions.classList.remove("show");
-});
+/* === Add Custom Product === */
+document.getElementById("addCustomProduct").onclick = () => {
+  const name = document.getElementById("customName").value.trim();
+  const price = parseFloat(document.getElementById("customPrice").value);
+  if (!name || isNaN(price) || price <= 0) return alert("Enter valid name and price.");
+  addToCart({ product_name: name, price: price });
+  customModal.hide();
+};
 
 /* === Cart Management === */
 function addToCart(p) {
   const existing = cart.find(i => i.product_name === p.product_name);
   if (existing) existing.qty++;
-  else cart.unshift({ product_name: p.product_name, price: p.price, qty: 1 }); // newest on top
+  else cart.unshift({ product_name: p.product_name, price: p.price, qty: 1 });
   renderCart();
 }
 
-function updateQtyDirect(i, el) {
-  const val = parseInt(el.value);
-  cart[i].qty = isNaN(val) || val < 1 ? 1 : val;
+function updateQty(i, change) {
+  cart[i].qty = Math.max(1, cart[i].qty + change);
   renderCart();
 }
 
-function removeItem(i) {
-  cart.splice(i, 1);
-  renderCart();
-}
+function removeItem(i) { cart.splice(i, 1); renderCart(); }
 
 function renderCart() {
   cartBody.innerHTML = "";
   let total = 0;
+
   if (!cart.length) {
-    cartBody.innerHTML = `<tr><td colspan="6" class="text-center text-muted py-4">No products added yet</td></tr>`;
-  } else {
-    cart.forEach((item, i) => {
-      const sub = item.price * item.qty;
-      total += sub;
-      cartBody.innerHTML += `
-        <tr>
-          <td class="text-center">${i + 1}</td>
-          <td>${item.product_name}</td>
-          <td class="text-center">
-            <input type="number" min="1" value="${item.qty}" 
-              class="form-control form-control-sm text-center bg-dark text-light border-warning" 
-              onchange="updateQtyDirect(${i}, this)">
-          </td>
-          <td>${item.price.toFixed(2)}</td>
-          <td>${sub.toFixed(2)}</td>
-          <td><button class="btn btn-sm btn-danger" onclick="removeItem(${i})"><i class="bi bi-x-lg"></i></button></td>
-        </tr>`;
-    });
+    cartBody.innerHTML = `
+      <tr class="empty-row">
+        <td colspan="6" class="py-4">No products added yet</td>
+      </tr>`;
+    totalDisplay.textContent = "₹0.00";
+    grand.textContent = "₹0.00";
+    return;
   }
+
+  cart.forEach((item, i) => {
+    const sub = item.price * item.qty;
+    total += sub;
+    cartBody.innerHTML += `
+      <tr>
+        <td class="text-center">${i + 1}</td>
+        <td>${item.product_name}</td>
+        <td class="text-center">
+          <div class="qty-control">
+            <button class="qty-btn" onclick="updateQty(${i}, -1)">-</button>
+            <input type="number" min="1" value="${item.qty}" class="qty-input" onchange="cart[${i}].qty=parseInt(this.value)||1;renderCart();">
+            <button class="qty-btn" onclick="updateQty(${i}, 1)">+</button>
+          </div>
+        </td>
+        <td>${item.price.toFixed(2)}</td>
+        <td>${sub.toFixed(2)}</td>
+        <td><button class="btn btn-sm btn-danger" onclick="removeItem(${i})"><i class="bi bi-x-lg"></i></button></td>
+      </tr>`;
+  });
+
   totalDisplay.textContent = "₹" + total.toFixed(2);
   grand.textContent = "₹" + total.toFixed(2);
 }
 
-/* === Checkout Modal === */
+
+/* === Checkout === */
 document.getElementById("checkout").onclick = () => {
   if (!cart.length) return alert("Cart is empty!");
   selectedPayment = null;
@@ -338,15 +443,17 @@ document.querySelectorAll(".pay-option").forEach(btn => {
   };
 });
 
-/* === Confirm Checkout + Auto Print === */
+/* === Confirm Checkout === */
 confirmPay.onclick = async () => {
   if (!selectedPayment) return;
-  const finalCost = finalCostInput.value ? parseFloat(finalCostInput.value) : null;
+    const finalCost = finalCostInput.value ? parseFloat(finalCostInput.value) : null;
+
   const res = await fetch("/api/checkout", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ cart, payment_mode: selectedPayment, final_cost: finalCost })
   });
+
   const data = await res.json();
   if (data.ok) {
     payModal.hide();
@@ -354,7 +461,12 @@ confirmPay.onclick = async () => {
     btnDownload.href = data.pdf_url;
     btnPrint.onclick = () => {
       const w = window.open(data.pdf_url, "_blank");
-      setTimeout(() => { if (w) { w.focus(); w.print(); } }, 1000);
+      setTimeout(() => {
+        if (w) {
+          w.focus();
+          w.print();
+        }
+      }, 1000);
     };
     cart = [];
     renderCart();
@@ -367,5 +479,21 @@ document.getElementById("btn-new").onclick = () => {
   cart = [];
   renderCart();
 };
+
+/* === Clear Search === */
+document.getElementById("clearSearch").onclick = () => {
+  searchInput.value = "";
+  suggestions.classList.remove("show");
+  suggestions.innerHTML = "";
+  searchInput.focus();
+};
+
+/* === Hide Suggestions when clicking outside === */
+document.addEventListener("click", e => {
+  if (!e.target.closest("#search") && !e.target.closest("#suggestions")) {
+    suggestions.classList.remove("show");
+  }
+});
 </script>
 {% endblock %}
+

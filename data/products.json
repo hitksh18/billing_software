@@ -64,7 +64,8 @@
     { "Product No": "048", "Product Name": "HYDROGEN BOMB GREEN 1 BOX", "Price": "Rs.175.00", "Description": "1 box only contains 10pcs" },
     { "Product No": "049", "Product Name": "STANDARD ATOM BOMB 1 BOX", "Price": "Rs.175.00", "Description": "1 box only contains 10pcs" },
     { "Product No": "050", "Product Name": "BULLET BOMB 1 BOX", "Price": "Rs.180.00", "Description": "1 box only contains 10pcs" },
-    { "Product No": "051", "Product Name": "THUNDER BOMB GREEN 1 BOX", "Price": "Rs.250.00", "Description": "1 box only contains 10pcs" }
+    { "Product No": "051", "Product Name": "THUNDER BOMB GREEN 1 BOX", "Price": "Rs.250.00", "Description": "1 box only contains 10pcs" },
+    { "Product No": "127", "Product Name": "Nazi-Green-Cornation", "Price": "Rs.250.00", "Description": "1 box contains 10pcs" }
   ],
 
   "GARLANDS": [
@@ -98,7 +99,7 @@
     { "Product No": "073", "Product Name": "Samrath Jumbo Deluxe", "Price": "Rs.200.00", "Description": "10 in One Colour Matches" },
     { "Product No": "122", "Product Name": "Pandian-Snakes", "Price": "Rs.80.00", "Description": "10 boxes in one pack" },
     { "Product No": "124", "Product Name": "POP POP 50 BOX", "Price": "Rs.500.00", "Description": "POP POP 1 BOX – 50pcs" },
-    { "Product No": "125", "Product Name": "Ayyan Ring Caps", "Price": "Rs.10.00", "Description": "Ring Caps for Guns" }
+    { "Product No": "125", "Product Name": "Ayyan Ring Caps", "Price": "Rs.20.00", "Description": "Ring Caps for Guns" }
   ],
 
   "FANCY FIREWORKS": [
@@ -129,7 +130,8 @@
     { "Product No": "098", "Product Name": "30 Shots – Standard", "Price": "Rs.1,500.00", "Description": "1 box only contains 1 pcs" },
     { "Product No": "099", "Product Name": "40 Shots – Standard", "Price": "Rs.1,800.00", "Description": "1 box only contains 1 pcs" },
     { "Product No": "100", "Product Name": "60 Shots – Standard", "Price": "Rs.2,800.00", "Description": "1 box only contains 1 pcs" },
-    { "Product No": "101", "Product Name": "Speed 200 Shot", "Price": "Rs.6,000.00", "Description": "1 box only contains 1 pcs" }
+    { "Product No": "101", "Product Name": "Speed 200 Shot", "Price": "Rs.6,000.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "126", "Product Name": "Money Spinner", "Price": "Rs.180.00", "Description": "Fancy Item" }
   ],
 
   "MULTICOLOR NIGHT OUTS": [
@@ -138,6 +140,7 @@
     { "Product No": "104", "Product Name": "1\" COMETS – ALL VARIETY 1 BOX", "Price": "Rs.225.00", "Description": "1 box only contains 1 pcs" },
     { "Product No": "104", "Product Name": "2\" COMETS – ALL VARIETY 1 BOX", "Price": "Rs.475.00", "Description": "1 box only contains 1 pcs" },
     { "Product No": "105", "Product Name": "3\" COMETS – ALL VARIETY 1 BOX", "Price": "Rs.575.00", "Description": "1 box only contains 1 pcs" },
+    { "Product No": "128", "Product Name": "2\" COMETS(Other) – ALL VARIETY 1 BOX", "Price": "Rs.275.00", "Description": "1 box only contains 1 pcs" },
     { "Product No": "106", "Product Name": "30 SHOTS – ALL VARIETY 1 BOX (Other Brand)", "Price": "Rs.1,300.00", "Description": "1 box only contains 1 pcs" },
     { "Product No": "107", "Product Name": "60 SHOTS – ALL VARIETY 1 BOX (Other Brand)", "Price": "Rs.2,000.00", "Description": "1 box only contains 1 pcs" },
     { "Product No": "108", "Product Name": "60 SHOTS – SPECIAL 1 BOX", "Price": "Rs.2,500.00", "Description": "1 box only contains 1 pcs" },
